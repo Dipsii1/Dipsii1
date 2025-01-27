@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadhif Tri Aryastya</h1>
 <h3 align="center">A passionate Programmer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src"https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=790b7611uaf0n0n0glftkvi1byv4610kc052fl5er9lx9bu5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=790b7611uaf0n0n0glftkvi1byv4610kc052fl5er9lx9bu5&ep=v1_gifs_search&rid=giphy.gif&ct=g(https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipsii1&label=Profile%20views&color=0e75b6&style=flat" alt="dipsii1" /> </p>
 

@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nadhif Tri Aryastya</h1>
 <h3 align="center">A passionate Programmer from Indonesia</h3>
+<img align="right" alt="Coding" width="400" src"https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=790b7611uaf0n0n0glftkvi1byv4610kc052fl5er9lx9bu5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipsii1&label=Profile%20views&color=0e75b6&style=flat" alt="dipsii1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipsii1" alt="dipsii1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

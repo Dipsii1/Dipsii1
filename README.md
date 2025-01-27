@@ -1,4 +1,4 @@
-<img align="center" width="800" alt="Coding"  src="https://github.com/chaali03/chaali03/blob/main/apalah/_.gif">
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://Dipsii1.io)
 <h1 align="center">Hi 👋, I'm Nadhif Tri Aryastya</h1>
 <h3 align="center">A passionate Programmer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -6,6 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipsii1&label=Profile%20views&color=0e75b6&style=flat" alt="dipsii1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Next.JS**
+
+- 📫 How to reach me **nadifaryastia@gmail.com**
+
+- ⚡ Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
